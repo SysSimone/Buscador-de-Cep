@@ -1,3 +1,6 @@
+Esse projeto foi desenvolvido numa semana intensa de estudos com aulas ao vivo de um cara muito bacana que transfere seus conhecimentos atrvés do youtube com muita simplicidade. O Sujeito Programador, segue o link do canal dele no youtube: https://www.youtube.com/c/Sujeitoprogramador/videos
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
